@@ -16,13 +16,14 @@
   - MySQL 5.7
   - Tomcat 8.5
 
-<h2>상세 기능 및 화면</h2>
+<h2>소스 리뷰 및 화면</h2>
   
-  1. <a href="https://github.com/shin1217/MS/blob/master/README/Social_Login.md">Social Login (KAKAO,NAVER,GitHub)</a>
-  2. <a href="https://github.com/shin1217/MS/blob/master/README/Message.md">User, Admin Message</a>
-  3. <a href="https://github.com/shin1217/MS/blob/master/README/Mypage.md">User, Admin Mypage</a>
-  3. <a href="https://github.com/shin1217/MS/blob/master/README/UserBoard.md">UserBoard</a>
-  
+  1. <a href="https://blog.naver.com/vnemftnsska2/221407281877">MVC 패턴을 이용한 회원가입</a>
+  2. <a href="https://blog.naver.com/vnemftnsska2/221407559074">회원가입 및 아이디 중복검사</a>
+  3. <a href="https://blog.naver.com/vnemftnsska2/221413061386">정규식 및 JavaScript 유효성 검사</a>
+  4. <a href="https://blog.naver.com/vnemftnsska2/221413314636">Spring 이메일 인증 및 데이터베이스 추가</a>
+  5. <a href="https://blog.naver.com/vnemftnsska2/221414102588">비밀번호 암호화 SHA256</a>
+  6. <a href="https://blog.naver.com/vnemftnsska2/221416864250">로그인(쿠키 / 세션 활용)</a>
   
   
  
