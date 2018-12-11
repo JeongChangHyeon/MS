@@ -18,7 +18,7 @@
 
 <h2>소스 리뷰 및 화면</h2>
   
-  1. <a href="https://blog.naver.com/vnemftnsska2/221407281877" target="_blank">MVC 패턴을 이용한 회원가입</a>
+  1. <a href="https://blog.naver.com/vnemftnsska2/221407281877">MVC 패턴을 이용한 회원가입</a>
   2. <a href="https://blog.naver.com/vnemftnsska2/221407559074">회원가입 및 아이디 중복검사</a>
   3. <a href="https://blog.naver.com/vnemftnsska2/221413061386">정규식 및 JavaScript 유효성 검사</a>
   4. <a href="https://blog.naver.com/vnemftnsska2/221413314636">Spring 이메일 인증 및 데이터베이스 추가</a>
