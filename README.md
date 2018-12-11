@@ -16,7 +16,7 @@
   - MySQL 5.7
   - Tomcat 8.5
 
-<h2>소스 리뷰 및 화면</h2>
+<h2>소스 리뷰 및 </h2>
   
   1. <a href="https://blog.naver.com/vnemftnsska2/221407281877">MVC 패턴을 이용한 회원가입</a>
   2. <a href="https://blog.naver.com/vnemftnsska2/221407559074">회원가입 및 아이디 중복검사</a>
